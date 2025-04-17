@@ -1,9 +1,12 @@
 # Hi there 👋, I'm youcef, 
 
-🎓 I'm currently a Data Science student at **École Centrale Casablanca**<br\>
-📊 Passionate about Machine Learning, AI, and Data<br\> 
-💡 Always curious to learn, build, and collaborate on data-driven solutions<br\>
-🌍 Open to internships, research projects, and collaborations<br\> 
+🎓 I'm currently a Data Science student at **École Centrale Casablanca**
+
+📊 Passionate about Machine Learning, AI, and Data
+
+💡 Always curious to learn, build, and collaborate on data-driven solutions
+
+🌍 Open to internships, research projects, and collaborations
 
 
 
