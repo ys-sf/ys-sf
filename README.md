@@ -1,6 +1,6 @@
 # Hi there 👋, I'm youcef, 
 
-🎓 I'm currently a Data Science student at ** Centrale Méditerranée**
+🎓 I'm currently a Data Science student at *** Centrale Méditerranée ***
 
 📊 Passionate about Machine Learning, AI, and Data
 
